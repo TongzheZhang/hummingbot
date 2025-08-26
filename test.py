@@ -7,3 +7,4 @@ import matplotlib.pyplot as plt
 if __name__ == "__main__":
     print('hello world')
     print('From ZTZ')
+    print("From ZTZ again")
